@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The era of Big Data requires the use of Machine Learning and Data Science, where Python and its numerous libraries are favored for data processing.
-In this regard, this project aimed to explore and compare the performance of the seven most commonly used Python libraries in machine learning and data science: Scikitlearn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, and CatBoost.
+In this regard, this project aimed to explore and compare the performance of the seven most commonly used Python libraries in machine learning and data science: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, and CatBoost.
 
 The first part of the project focused on the exploration of these libraries. introducing the 
 term Machine Learning and highlighting the key differences among these libraries in terms of 
