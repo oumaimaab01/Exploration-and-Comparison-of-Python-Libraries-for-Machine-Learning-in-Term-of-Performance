@@ -52,7 +52,7 @@ This section lists the major frameworks/libraries used to bootstrap this project
 * [CatBoost](https://catboost.ai/)
 
 ## results
-<img src="performance comparison.png" alt="Comparison in term of accuracy and time execution" />
+<img src="performance comparison .png" alt="Comparison in term of accuracy and time execution" />
 With:
 E.Algo: Existence of the algorithm
 Accrc: Accuracy
