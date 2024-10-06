@@ -54,18 +54,17 @@ This section lists the major frameworks/libraries used to bootstrap this project
 ## results
 <img src="performance comparison .png" alt="Comparison in term of accuracy and time execution" />
 With:
-E.Algo: Existence of the algorithm
-Accrc: Accuracy
-T.Exéct: Execution time
-TensorFlow_V2: TensorFlow with the Keras API
-TensorFlow_V1: TensorFlow without the Keras API
+- **E.Algo**: Existence of the algorithm
+- **Accrc**: Accuracy
+- **T.Exéct**: Execution time
+- **TensorFlow_V2**: TensorFlow with the Keras API
+- **TensorFlow_V1**: TensorFlow without the Keras API
 
 Notes:
+- Although Scikit-learn seems effective, it is generally better suited for small to medium-sized datasets.
+- Gradient Boosting libraries are more effective when dealing with larger datasets.
 
-Although Scikit-learn seems effective, it is generally better suited for small to medium-sized datasets.
-Gradient Boosting libraries are more effective when dealing with larger datasets.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 
 
