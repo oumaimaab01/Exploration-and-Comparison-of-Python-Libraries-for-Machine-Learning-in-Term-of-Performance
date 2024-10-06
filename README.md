@@ -7,9 +7,6 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#Algorithms-used-in-this-project">Algorithms</a>
-    </li>
-    <li>
       <a href="#built-with">Built With</a>
     </li>
   </ol>
